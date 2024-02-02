@@ -1,4 +1,4 @@
-﻿//Problem #1: operatores
+﻿//Problem #1: operatores "is it even"
 #include <iostream>
 using namespace std;
 int main()
